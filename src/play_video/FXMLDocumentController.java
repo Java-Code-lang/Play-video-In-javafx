@@ -86,7 +86,7 @@ static URI p= file.toURI();
     @Override
     public void initialize(URL url, ResourceBundle rb) {
       
-       
+       // you can change the height and width of video  from here.
       
        mv.setFitHeight(720);
        mv.setFitWidth(1280);
